@@ -1,0 +1,17 @@
+{
+    "application": {
+        "name": "IR System",
+        "version": "0.1.0",
+        "description": "Information Retrieval System"
+    },
+    "display": {
+        "enable_high_dpi": true
+    },
+    "logging": {
+        "level": "INFO",
+        "file_path": "logs/app.log"
+    },
+    "database": {
+        "path": "doc_indexer.db"
+    }
+}

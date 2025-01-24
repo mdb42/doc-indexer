@@ -4,3 +4,11 @@ __pycache__/
 *.pyo
 .DS_Store
 .env
+doc_indexer.db
+build/
+dist/
+DocumentIndexer.spec
+config.json
+logs/
+
+
